@@ -1,6 +1,9 @@
 # Sarah Redden
 **Electrical Engineering**
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sarahsr6/dgtHum_pythonClass.git/HEAD)
+
+
 *3rd year transfer*
 
 I want to learn about python a little more.
