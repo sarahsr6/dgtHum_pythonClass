@@ -1,6 +1,6 @@
-# Sarah Redden
-**Electrical Engineering**
-*3rd year transfer*
+# CO2 Emissions Worldwide and Technology
+**Sarah Redden**
+*3/20/23*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sarahsr6/dgtHum_pythonClass.git/HEAD)
 
