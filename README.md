@@ -14,9 +14,9 @@ The issue is that if we expand technology further and share with more countries 
 
 Here are the links to find more info on the topics
 * Global warming.. https://www.nytimes.com/article/climate-change-global-warming-faq.html
-* women in eng.. https://www.aauw.org/resources/research/the-stem-gap/
-* robotics replacing jobs.. https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/?sh=7175b8ad3299
-* data vis.. https://www.geeksforgeeks.org/data-visualization-with-python/
+* Disproportional Impact.. https://www.usglc.org/blog/climate-change-and-the-developing-world-a-disproportionate-impact/
+* Climate Change.. https://unctad.org/news/carbon-emissions-anywhere-threaten-development-everywhere
+* Corgis Data.. https://corgis-edu.github.io/corgis/csv/
 
 
 
